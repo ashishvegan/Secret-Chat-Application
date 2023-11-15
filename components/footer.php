@@ -5,3 +5,4 @@
     <p class="text-center text-muted">&copy; 2023 Channel 51, Dark Network</p>
   </footer>
 </div>
+<?php echo mysqli_error($db_string);?>
